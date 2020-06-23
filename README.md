@@ -1,3 +1,3 @@
 # Repo for my personal website
 
-Visit https://rohitgupta.ml
+Visit guptarohit.github.io
